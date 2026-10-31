@@ -36,7 +36,7 @@ Completed as an independent student redesign concept.
 This website is not the official website of Scorpio Cafe. Business information and illustrative photographs should be verified before commercial use.
 
 ## Live Website
-Add your GitHub Pages link here.
+https://akant1423.github.io/scorpio-cafe-website/
 
 ## Developer
 Anushka Kant  
